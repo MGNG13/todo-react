@@ -1,0 +1,43 @@
+.todo-creator input[type="text"] {
+  text-align: start;
+  margin: 20px;
+  width: 27%;
+  outline: none;
+  border-radius: 10px;
+  background-color: transparent;
+  color: rgb(100, 100, 100);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 7px;
+  text-overflow: ellipsis;
+  transition: 450ms ease-in-out;
+}
+
+.todo-creator input[type="text"]:focus {
+  color: lightgray;
+  padding: 20px;
+  border-radius: 35px;
+  width: 87%;
+  border: 4px solid var(--primary-color);
+  box-shadow: 0 35px 100px var(--secondary-color);
+}
+
+.todo-creator ::placeholder {
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .todo-creator input[type="text"] {
+    margin: 35px;
+    border-radius: 15px;
+    padding: 10px;
+    width: 60%;
+  }
+
+  .todo-creator input[type="text"]:focus {
+    margin: 35px 0 55px 0;
+    border-radius: 25px;
+    box-shadow: 0 30px 70px var(--secondary-color);
+    width: 80%;
+    padding: 20px;
+  }
+}
