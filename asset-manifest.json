@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.0c43c518.css",
+    "main.js": "/todo-react/static/js/main.9b41448f.js",
+    "static/media/deleteall.wav": "/todo-react/static/media/deleteall.606f07483ea0dd4bda56.wav",
+    "static/media/delete.wav": "/todo-react/static/media/delete.1e1d3b8b60068879e8e6.wav",
+    "static/media/add.wav": "/todo-react/static/media/add.3c7162edfe94619f9c03.wav",
+    "static/media/1.wav": "/todo-react/static/media/1.b9add59bed4412aa5e7b.wav",
+    "static/media/2.wav": "/todo-react/static/media/2.1291debb1a227f874ddc.wav",
+    "static/media/3.wav": "/todo-react/static/media/3.54eda9b5c7f5050b9653.wav",
+    "static/media/4.wav": "/todo-react/static/media/4.0f365f48450661f57ad8.wav",
+    "static/media/5.wav": "/todo-react/static/media/5.a7fbe5cbea5b9163e6b5.wav",
+    "static/media/6.wav": "/todo-react/static/media/6.c45469775acfdb0a62c4.wav",
+    "static/media/7.wav": "/todo-react/static/media/7.52854a35654536307981.wav",
+    "static/media/8.wav": "/todo-react/static/media/8.b1719de6545e90919fc1.wav",
+    "static/media/enter.wav": "/todo-react/static/media/enter.538ff80131b0ea1a1d4e.wav",
+    "static/media/HaiEisya.woff": "/todo-react/static/media/HaiEisya.8b6e06de9a909f6bb5a9.woff",
+    "static/media/delete.svg": "/todo-react/static/media/delete.11e4bbd7ba2684173d0f719bfa9898c6.svg",
+    "index.html": "/todo-react/index.html",
+    "main.0c43c518.css.map": "/todo-react/static/css/main.0c43c518.css.map",
+    "main.9b41448f.js.map": "/todo-react/static/js/main.9b41448f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c43c518.css",
+    "static/js/main.9b41448f.js"
+  ]
+}
